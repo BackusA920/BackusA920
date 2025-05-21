@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BackusA920
+- 👋 Hi, I’m April Backus
 - 👀 I’m interested in ... Learning new hobbies
-- 🌱 I’m currently learning ... HTML
 - 💞️ I’m looking to collaborate on ...New projects
 - 📫 How to reach me ... seren.studios@gmail.com
 - 😄 Pronouns: ...She/Her
