@@ -12,7 +12,7 @@
 
 ### 💻 About Me
 
-I'm a web developer and visual creator from Manitowoc, WI. My journey into the world of coding started as a way to connect with my 7-year-old son, who loves to code, and a personal challenge, but quickly became a passion. With a love for DIY, photography, and building things from scratch, it only made sense to dive into web development. Someday, I would like to make this into a career choice.
+I'm a web developer and visual creator from Manitowoc, WI. My journey into the world of coding started as a way to connect with my 7-year-old son, who loves to code, and a personal challenge, but quickly became a passion. With a love for DIY, photography, and building things from scratch, it only made sense to dive into web development.
 
 I’m currently building projects with:
 - **HTML, CSS, JavaScript** (and growing!)
