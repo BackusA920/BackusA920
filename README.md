@@ -51,7 +51,6 @@ I'm always eager to take on new challenges, learn new tools, and collaborate wit
 | [Mommy & Me Website](https://backusa920.github.io/MommyandMeWebsite/) | A coding collaboration with my 7-year-old son, showcasing games, creativity, and fun. | HTML, CSS, JS |
 | [Portfolio Website](https://backusa920.github.io/portfolio/) | A sleek, pun-filled developer portfolio themed like a coding adventure. | HTML, CSS, |
 | [Resume](https://backusa920.github.io/Resume/) |Profesional Resume | HTML, CSS, |
-_
 | More coming soon... | I'm always adding something new 👀 | |
 
 ---
