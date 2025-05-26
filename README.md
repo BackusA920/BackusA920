@@ -1,6 +1,6 @@
 <!-- Banner Image (upload your own banner or use a link to one you host) -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFee99Zex83_Q/feedshare-shrink_2048_1536/B4DZcO05v7G0Ao-/0/1748300440191?e=1750896000&v=beta&t=_2Lp_wIlSGUzfCFCyLKFsL8uPFcWKOY34mKUgRVtHOc" alt="Banner of April Backus" style="width:100%; max-height: 300px; object-fit: cover;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFee99Zex83_Q/feedshare-shrink_2048_1536/B4DZcO05v7G0Ao-/0/1748300440191?e=1750896000&v=beta&t=_2Lp_wIlSGUzfCFCyLKFsL8uPFcWKOY34mKUgRVtHOc" alt="Banner of April Backus" style="width:50%; max-height: 150px; object-fit: cover;">
 </p>
 
 <h1 align="center">Hey there 👋 I'm April Backus</h1>
@@ -49,7 +49,9 @@ I'm always eager to take on new challenges, learn new tools, and collaborate wit
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Mommy & Me Website](https://backusa920.github.io/MommyandMeWebsite/) | A coding collaboration with my 7-year-old son, showcasing games, creativity, and fun. | HTML, CSS, JS |
-| [Portfolio Website](https://backusa920.github.io/portfolio/) | A sleek, pun-filled developer portfolio themed like a coding adventure. | HTML, CSS, JS |
+| [Portfolio Website](https://backusa920.github.io/portfolio/) | A sleek, pun-filled developer portfolio themed like a coding adventure. | HTML, CSS, |
+| [Resume](https://backusa920.github.io/Resume/) |Profesional Resume | HTML, CSS, |
+_
 | More coming soon... | I'm always adding something new 👀 | |
 
 ---
@@ -58,7 +60,7 @@ I'm always eager to take on new challenges, learn new tools, and collaborate wit
 
 - 📧 Email: seren.studios@gmail.com  
 - 🌐 [Portfolio Website](https://backusa920.github.io)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aprilbackus) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/april-backus-969a1b103/) 
 
 ---
 
