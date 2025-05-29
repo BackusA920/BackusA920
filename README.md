@@ -58,7 +58,7 @@ I'm always eager to take on new challenges, learn new tools, and collaborate wit
 ### 📫 Connect With Me
 
 - 📧 Email: seren.studios@gmail.com  
-- 🌐 [Portfolio Website](https://backusa920.github.io)  
+- 🌐 [Portfolio Website](https://backusa920.github.io/portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/april-backus-969a1b103/) 
 
 ---
