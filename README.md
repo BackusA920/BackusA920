@@ -1,3 +1,5 @@
+<p align="center">
+  <img src="https://backusa920.github.io/portfolio/assets/5DM34036.jpg" alt="Photo of April Backus" width="150" style="border-radius: 50%;"></p>
 
 <h1 align="center">Hey there, I'm April Backus</h1>
 <p align="center">
@@ -64,10 +66,6 @@ I'm always eager to take on new challenges, learn new tools, and collaborate wit
 > I believe every new skill is a new superpower, and right now, I'm levelling up in code! 
 
 ---
-
-<p align="center">
-  <img src="https://backusa920.github.io/portfolio/assets/5DM34036.jpg" alt="Photo of April Backus" width="150" style="border-radius: 50%;">
-</p>
 
 <p align="center"><i>“Creativity + Code = Endless Possibilities”</i></p>
 
