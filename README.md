@@ -16,8 +16,8 @@ I'm a web developer and visual creator from Manitowoc, WI. My journey into the w
 
 I’m currently building projects with:
 - **HTML, CSS, JavaScript** (and growing!)
-- PC and mobile-friendly websites 🌐
-- Creative designs & coding with my son 🧠👩‍👦 (check out our [Mommy & Me](https://backusa920.github.io/MommyandMeWebsite/) project!)
+- PC and mobile-friendly websites 
+- Creative designs & coding with my son (check out our [Mommy & Me](https://backusa920.github.io/MommyandMeWebsite/) project!)
 - Making a new project every day. Practice makes perfect.
 
 I'm always eager to take on new challenges, learn new tools, and collaborate with others in tech.
@@ -65,7 +65,7 @@ I'm always eager to take on new challenges, learn new tools, and collaborate wit
 
 ### ⚡ Fun Fact
 
-> I believe every new skill is a new superpower, and right now, I'm levelling up in code! 💥
+> I believe every new skill is a new superpower, and right now, I'm levelling up in code! 
 
 ---
 
