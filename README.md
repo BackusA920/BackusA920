@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFee99Zex83_Q/feedshare-shrink_2048_1536/B4DZcO05v7G0Ao-/0/1748300440191?e=1750896000&v=beta&t=_2Lp_wIlSGUzfCFCyLKFsL8uPFcWKOY34mKUgRVtHOc" alt="Banner of April Backus" style="width:50%; max-height: 150px; object-fit: cover;">
-</p>
-
 <h1 align="center">Hey there, I'm April Backus</h1>
 <p align="center">
    A curious, hands-on, creative learning to code one adventure at a time!  
